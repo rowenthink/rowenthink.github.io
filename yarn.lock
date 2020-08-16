@@ -11976,10 +11976,10 @@ typography-normalize@^0.16.19:
   resolved "https://registry.npm.taobao.org/typography-normalize/download/typography-normalize-0.16.19.tgz#58e0cf12466870c5b27006daa051fe7307780660"
   integrity sha1-WODPEkZocMWycAbaoFH+cwd4BmA=
 
-typography-theme-kirkham@^0.16.19:
+typography-theme-funston@^0.16.19:
   version "0.16.19"
-  resolved "https://registry.npm.taobao.org/typography-theme-kirkham/download/typography-theme-kirkham-0.16.19.tgz#17c83ac32a24696b62546d760fd67540ad8ce582"
-  integrity sha1-F8g6wyokaWtiVG12D9Z1QK2M5YI=
+  resolved "https://registry.npm.taobao.org/typography-theme-funston/download/typography-theme-funston-0.16.19.tgz#fe543c337cad4af67911cdb2004cb641045b92a9"
+  integrity sha1-/lQ8M3ytSvZ5Ec2yAEy2QQRbkqk=
   dependencies:
     gray-percentage "^2.0.0"
     typography-breakpoint-constants "^0.16.19"

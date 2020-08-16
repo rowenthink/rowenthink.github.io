@@ -1,7 +1,8 @@
 import Typography from "typography";
-import kirkhamTheme from "typography-theme-kirkham";
+import funstonTheme from "typography-theme-funston";
 
-const typography = new Typography(kirkhamTheme)
+funstonTheme.baseFontSize = '16px';
+const typography = new Typography(funstonTheme);
 
 export const { rhythm } = typography
 export default typography
